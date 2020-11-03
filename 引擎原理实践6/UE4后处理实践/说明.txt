@@ -1,0 +1,4 @@
+由于文件模型贴图精度过高，所以场景文件很大，这里提供实操录屏视频和渲染出图，包括白膜和最终效果。
+游戏可执行文件：（百度网盘）
+链接：https://pan.baidu.com/s/1JAZKp0tkyibxSPMsOxbghA 
+提取码：ewgy 

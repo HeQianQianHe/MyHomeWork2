@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3565720E-F823-0F16-EB7D-8843E4250EAE}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Controller.cs">
+    <Files>
+      <File FileName="../游戏心理学/佳期功能游戏数据分析作业/佳期上报数据说明.xml" Line="608" Column="51" />
+      <File FileName="Assets/CartoonShading.shader" Line="16" Column="39" />
+      <File FileName="Assets/Controller.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
