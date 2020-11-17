@@ -113,19 +113,19 @@
      <None Include="Assets\Anim\Shaders\Common\Noise\SimplexNoise3D.cginc" />
      <None Include="Assets\Anim\Shaders\Common\Noise\SimplexNoiseGrad3D.cginc" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>E:/unity2018.3.8/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -332,13 +332,13 @@
  <HintPath>E:/unity2018.3.8/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>E:/GitHub/CangKu4/MyHomeWork2/开发基础课6/Animation system-UnityProject/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/AnimationSystem6/Animation system-UnityProject/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>E:/unity2018.3.8/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

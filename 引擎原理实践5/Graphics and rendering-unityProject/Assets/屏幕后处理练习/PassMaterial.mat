@@ -120,7 +120,7 @@ Material:
     - _nightbrightness: 1
     - _noiseXspeed: 100
     - _noiseYspeed: 100
-    - _randomValue: 0.6984081
+    - _randomValue: 0.35151693
     - _scale: 0.8
     - _scanLineTileAmount: 4
     - _scratchesXSpeed: 10

@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DA1BEE1F-917C-D456-FDE2-BCC90AB40E61}</ProjectGuid>
+    <ProjectGuid>{C5A95228-1199-E7E0-6D4F-064C7CC221D7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SimpleCameraController.cs" />
+     <Compile Include="Assets\TransmissionValue.cs" />
      <Compile Include="Assets\屏幕后处理练习\PassRenderImage.cs" />
      <None Include="Assets\shader练习\Test1.shader" />
      <None Include="Assets\shader练习\MultiLights.shader" />
@@ -90,31 +91,31 @@
      <None Include="Assets\屏幕后处理练习\OldTvFilmEffectShader.shader" />
      <None Include="Assets\shader练习\ScrollingShader.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/Administrator/Desktop/Graphics and rendering/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>E:/GitHub/CangKu4/MyHomeWork2/引擎原理实践5/Graphics and rendering-unityProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>E:/unity2019.3.8/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

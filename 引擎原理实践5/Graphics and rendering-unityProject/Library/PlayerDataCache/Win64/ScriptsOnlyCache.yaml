@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - PassRenderImage
+    - TransmissionValue
     - UnityTemplateProjects.SimpleCameraController
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -49,9 +50,11 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 18090}
+      Script: {instanceID: 11852}
     - Class: 114
-      Script: {instanceID: 21558}
+      Script: {instanceID: 12490}
+    - Class: 114
+      Script: {instanceID: 15332}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -245,6 +248,12 @@ ScriptsOnlyBuild:
     className: ControlTrack
   - hash:
       serializedVersion: 2
+      Hash: 9ddf81a645a73c3f605d5af780aa00cb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PassRenderImage
+  - hash:
+      serializedVersion: 2
       Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -351,6 +360,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 8860633d29a22ff64e02e18da3716cdf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityTemplateProjects
+    className: SimpleCameraController
   - hash:
       serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
@@ -485,18 +500,12 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 9ddf81a645a73c3f605d5af780aa00cb
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: PassRenderImage
-  - hash:
-      serializedVersion: 2
-      Hash: 8860633d29a22ff64e02e18da3716cdf
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: UnityTemplateProjects
-    className: SimpleCameraController
+    className: TransmissionValue
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/Administrator/Desktop/Graphics and rendering/Graphics and
-    rendering-\u53EF\u6267\u884C\u6587\u4EF6/Graphics and rendering.exe"
+  playerPath: "E:/GitHub/CangKu4/MyHomeWork2/\u5F15\u64CE\u539F\u7406\u5B9E\u8DF55/Graphics
+    and rendering-\u53EF\u6267\u884C\u6587\u4EF6/Graphics and rendering.exe"

@@ -1,7 +1,14 @@
 ﻿Shader "MyShader/PBRShader"
 {
     Properties
-    {
+    {	_Test("Test",float) = 7
+	_LiangDu("LiangDu",float) = 7
+		_DianLu ("DianLu", 2D) = "white" {}
+		_Center("Center",vector) = (0,0,0,0)
+		_Radius("Radius",float) = 1
+		_RadiusWidth("RadiusWidth",float) = 1
+		_CircleColor("CircleColor",Color) = (1,0,0,1)
+
 		//灯光纹理  
         _SweepLightTex("Light Texture",2D)="white"{}  
 		//灯光颜色 
@@ -101,7 +108,9 @@
                 float3 lightDir:TEXCOORD1;
                 float3 viewDir:TEXCOORD2;
             };
-
+			float _Test;
+			float _LiangDu;
+			sampler2D _DianLu;  
 			fixed4 _SweepLightColor;
 			float _SweepLightSacle;
 			sampler2D _SweepLightTex;  
@@ -115,6 +124,10 @@
             float _AO;
             fixed4 _Color;
 			sampler2D _ARMTex;
+			float4 _Center;
+			float _Radius;
+			float _RadiusWidth;
+			float4 _CircleColor;
 
             v2f vert (appdata v)
             {
@@ -181,6 +194,18 @@
                 fixed maskA=tex2D(_MaskTex,i.uv).a;  
    
                 fixed4 col = finalColor + lightTexA*maskA*0.6*ARMTex.b*_SweepLightColor*_SweepLightSacle + lightTexA*maskA*0.05* (1-ARMTex.b)*_SweepLightColor*_SweepLightSacle;         
+				
+				float dis = distance(_Center,i.worldPos);
+				//算一下自定义位置和每个面之间的距离
+				if(dis>_Radius&&dis<_Radius+_RadiusWidth)
+				{//若这个距离在（半径）和（半径+圆环宽度）之间就显示红色，否则显示原来的贴图颜色
+					float4 DianLu = tex2D(_DianLu,i.uv);
+					col = col + clamp( (col * _CircleColor * _LiangDu * DianLu) - _Test*abs( dis - (_Radius + _RadiusWidth/2))/(_RadiusWidth/2),0,100);
+					
+				}else
+				{
+
+				}
 
                 return col;
             }
