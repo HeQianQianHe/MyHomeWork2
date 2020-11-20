@@ -1,6 +1,3 @@
-// Upgrade NOTE: upgraded instancing buffer 'Props' to new syntax.
-
-
 #include "UnityCG.cginc"
 #include "UnityGBuffer.cginc"
 #include "UnityStandardUtils.cginc"

@@ -1,27 +1,3 @@
-//
-// Noise Shader Library for Unity - https://github.com/keijiro/NoiseShader
-//
-// Original work (webgl-noise) Copyright (C) 2011 Stefan Gustavson
-// Translation and modification was made by Keijiro Takahashi.
-//
-// This shader is based on the webgl-noise GLSL shader. For further details
-// of the original shader, please see the following description from the
-// original source code.
-//
-
-//
-// GLSL textureless classic 3D noise "cnoise",
-// with an RSL-style periodic variant "pnoise".
-// Author:  Stefan Gustavson (stefan.gustavson@liu.se)
-// Version: 2011-10-11
-//
-// Many thanks to Ian McEwan of Ashima Arts for the
-// ideas for permutation and gradient selection.
-//
-// Copyright (c) 2011 Stefan Gustavson. All rights reserved.
-// Distributed under the MIT license. See LICENSE file.
-// https://github.com/ashima/webgl-noise
-//
 
 float3 mod(float3 x, float3 y)
 {
@@ -52,15 +28,14 @@ float3 fade(float3 t) {
   return t*t*t*(t*(t*6.0-15.0)+10.0);
 }
 
-// Classic Perlin noise
 float cnoise(float3 P)
 {
-  float3 Pi0 = floor(P); // Integer part for indexing
-  float3 Pi1 = Pi0 + (float3)1.0; // Integer part + 1
+  float3 Pi0 = floor(P);
+  float3 Pi1 = Pi0 + (float3)1.0;
   Pi0 = mod289(Pi0);
   Pi1 = mod289(Pi1);
-  float3 Pf0 = frac(P); // Fractional part for interpolation
-  float3 Pf1 = Pf0 - (float3)1.0; // Fractional part - 1.0
+  float3 Pf0 = frac(P); 
+  float3 Pf1 = Pf0 - (float3)1.0;
   float4 ix = float4(Pi0.x, Pi1.x, Pi0.x, Pi1.x);
   float4 iy = float4(Pi0.y, Pi0.y, Pi1.y, Pi1.y);
   float4 iz0 = (float4)Pi0.z;
@@ -123,15 +98,14 @@ float cnoise(float3 P)
   return 2.2 * n_xyz;
 }
 
-// Classic Perlin noise, periodic variant
 float pnoise(float3 P, float3 rep)
 {
-  float3 Pi0 = mod(floor(P), rep); // Integer part, modulo period
-  float3 Pi1 = mod(Pi0 + (float3)1.0, rep); // Integer part + 1, mod period
+  float3 Pi0 = mod(floor(P), rep); 
+  float3 Pi1 = mod(Pi0 + (float3)1.0, rep); 
   Pi0 = mod289(Pi0);
   Pi1 = mod289(Pi1);
-  float3 Pf0 = frac(P); // Fractional part for interpolation
-  float3 Pf1 = Pf0 - (float3)1.0; // Fractional part - 1.0
+  float3 Pf0 = frac(P); 
+  float3 Pf1 = Pf0 - (float3)1.0; 
   float4 ix = float4(Pi0.x, Pi1.x, Pi0.x, Pi1.x);
   float4 iy = float4(Pi0.y, Pi0.y, Pi1.y, Pi1.y);
   float4 iz0 = (float4)Pi0.z;

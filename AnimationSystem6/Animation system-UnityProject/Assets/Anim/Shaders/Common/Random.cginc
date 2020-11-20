@@ -61,8 +61,6 @@ float3 random_positive_orth(float2 seed)
     return axis;
 }
 
-// Uniformaly distributed points on a unit sphere
-// http://mathworld.wolfram.com/SpherePointPicking.html
 float3 random_point_on_sphere(float2 uv)
 {
     float u = nrand(uv) * 2 - 1;

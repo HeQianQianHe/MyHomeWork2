@@ -53,11 +53,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Anim\Demo\Scripts\ProceduralSkinTrails.cs" />
-     <Compile Include="Assets\Anim\Demo\Scripts\TrailData.cs" />
-     <Compile Include="Assets\Anim\Scripts\Kernel.cs" />
-     <Compile Include="Assets\Anim\Scripts\ProceduralSkinAnimator.cs" />
-     <Compile Include="Assets\Anim\Scripts\ProceduralSkinData.cs" />
      <Compile Include="Assets\Attack.cs" />
      <Compile Include="Assets\CameraShake\Scripts\Attenuator.cs" />
      <Compile Include="Assets\CameraShake\Scripts\BounceShake.cs" />
@@ -73,9 +68,14 @@
      <Compile Include="Assets\ExplosionPack\scripts\destroyMe.cs" />
      <Compile Include="Assets\ExplosionPack\scripts\instantiateEffectCaller.cs" />
      <Compile Include="Assets\ExplosionPack\scripts\particleColorChanger.cs" />
+     <Compile Include="Assets\Kernel.cs" />
      <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\ProceduralSkinAnimator.cs" />
+     <Compile Include="Assets\ProceduralSkinData.cs" />
+     <Compile Include="Assets\ProceduralSkinTrails.cs" />
      <Compile Include="Assets\Suriyun\Scripts\AnimatorController.cs" />
      <Compile Include="Assets\Suriyun\Scripts\Swapper.cs" />
+     <Compile Include="Assets\TrailData.cs" />
      <None Include="Assets\Anim\Demo\Shaders\Compute\FloatingTrails.compute" />
      <None Include="Assets\Suriyun\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\Isometric Pack 3d\Shaders\MK4ToonTrees alpha normal.shader" />

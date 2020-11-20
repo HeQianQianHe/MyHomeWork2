@@ -7,8 +7,6 @@
 #define PI 3.14159265359f
 #endif 
 
-// Quaternion multiplication
-// http://mathworld.wolfram.com/Quaternion.html
 float4 qmul(float4 q1, float4 q2)
 {
     return float4(
@@ -17,15 +15,14 @@ float4 qmul(float4 q1, float4 q2)
 	);
 }
 
-// Vector rotation with a quaternion
-// http://mathworld.wolfram.com/Quaternion.html
+
 float3 rotate_vector(float3 v, float4 r)
 {
     float4 r_c = r * float4(-1, -1, -1, 1);
     return qmul(r, qmul(float4(v, 0), r_c)).xyz;
 }
 
-// A given angle of rotation about a given axis
+
 float4 rotate_angle_axis(float angle, float3 axis)
 {
     float sn = sin(angle * 0.5);
@@ -33,7 +30,7 @@ float4 rotate_angle_axis(float angle, float3 axis)
     return float4(axis * sn, cs);
 }
 
-// https://stackoverflow.com/questions/1171849/finding-quaternion-representing-the-rotation-from-one-vector-to-another
+
 float4 from_to_rotation(float3 v1, float3 v2)
 {
     float4 q;
@@ -64,7 +61,7 @@ float4 q_conj(float4 q)
     return float4(-q.x, -q.y, -q.z, q.w);
 }
 
-// https://jp.mathworks.com/help/aeroblks/quaternioninverse.html
+
 float4 q_inverse(float4 q)
 {
     float4 conj = q_conj(q);
@@ -137,7 +134,6 @@ float4 q_look_at(float3 forward, float3 up)
 
 float4 q_slerp(in float4 a, in float4 b, float t)
 {
-    // if either input is zero, return the other.
     if (length(a) == 0.0)
     {
         if (length(b) == 0.0)
@@ -168,7 +164,6 @@ float4 q_slerp(in float4 a, in float4 b, float t)
     float blendB;
     if (cosHalfAngle < 0.99)
     {
-        // do proper slerp for big angles
         float halfAngle = acos(cosHalfAngle);
         float sinHalfAngle = sin(halfAngle);
         float oneOverSinHalfAngle = 1.0 / sinHalfAngle;
@@ -177,7 +172,6 @@ float4 q_slerp(in float4 a, in float4 b, float t)
     }
     else
     {
-        // do lerp if angle is really small.
         blendA = 1.0 - t;
         blendB = t;
     }
