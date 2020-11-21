@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: c635bb51ca461fe4b9a8bebe793face1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2
+    100002: dianshi
+    100004: gebo
+    100006: gegebo
+    100008: iphone_1
+    100010: j
+    100012: jio
+    100014: sss
+    100016: "\u5237\u5B50"
+    100018: "\u53E3\u8154"
+    100020: "\u53E3\u81541"
+    100022: "\u624B"
+    100024: "\u624B_2"
+    100026: "\u624B_3"
+    100028: "\u624B_4"
+    100030: "\u6C34\u5F69\u7B14"
+    100032: "\u72591"
+    100034: "\u72592"
+    100036: "\u72593"
+    100038: "\u773C"
+    100040: "\u773C_1"
+    100042: "\u8033\u6735"
+    100044: "\u8033\u6735_1"
+    100046: "\u811A"
+    100048: "\u820C\u5934"
+    100050: //RootNode
+    100052: "\u9065\u63A7\u5668"
+    100054: "\u94C5\u7B14"
+    100056: "\u989C\u6599"
+    100058: "\u9F20\u6807"
+    100060: "\u9F3B"
+    400000: 2
+    400002: dianshi
+    400004: gebo
+    400006: gegebo
+    400008: iphone_1
+    400010: j
+    400012: jio
+    400014: sss
+    400016: "\u5237\u5B50"
+    400018: "\u53E3\u8154"
+    400020: "\u53E3\u81541"
+    400022: "\u624B"
+    400024: "\u624B_2"
+    400026: "\u624B_3"
+    400028: "\u624B_4"
+    400030: "\u6C34\u5F69\u7B14"
+    400032: "\u72591"
+    400034: "\u72592"
+    400036: "\u72593"
+    400038: "\u773C"
+    400040: "\u773C_1"
+    400042: "\u8033\u6735"
+    400044: "\u8033\u6735_1"
+    400046: "\u811A"
+    400048: "\u820C\u5934"
+    400050: //RootNode
+    400052: "\u9065\u63A7\u5668"
+    400054: "\u94C5\u7B14"
+    400056: "\u989C\u6599"
+    400058: "\u9F20\u6807"
+    400060: "\u9F3B"
+    2100000: "\u827A\u672F\u5BB6"
+    2100002: "\u773C___1"
+    2300000: 2
+    2300002: dianshi
+    2300004: gebo
+    2300006: gegebo
+    2300008: iphone_1
+    2300010: j
+    2300012: jio
+    2300014: sss
+    2300016: "\u5237\u5B50"
+    2300018: "\u53E3\u8154"
+    2300020: "\u53E3\u81541"
+    2300022: "\u624B"
+    2300024: "\u624B_2"
+    2300026: "\u624B_3"
+    2300028: "\u624B_4"
+    2300030: "\u6C34\u5F69\u7B14"
+    2300032: "\u72591"
+    2300034: "\u72592"
+    2300036: "\u72593"
+    2300038: "\u773C"
+    2300040: "\u773C_1"
+    2300042: "\u8033\u6735"
+    2300044: "\u8033\u6735_1"
+    2300046: "\u811A"
+    2300048: "\u820C\u5934"
+    2300050: "\u9065\u63A7\u5668"
+    2300052: "\u94C5\u7B14"
+    2300054: "\u989C\u6599"
+    2300056: "\u9F20\u6807"
+    2300058: "\u9F3B"
+    3300000: 2
+    3300002: dianshi
+    3300004: gebo
+    3300006: gegebo
+    3300008: iphone_1
+    3300010: j
+    3300012: jio
+    3300014: sss
+    3300016: "\u5237\u5B50"
+    3300018: "\u53E3\u8154"
+    3300020: "\u53E3\u81541"
+    3300022: "\u624B"
+    3300024: "\u624B_2"
+    3300026: "\u624B_3"
+    3300028: "\u624B_4"
+    3300030: "\u6C34\u5F69\u7B14"
+    3300032: "\u72591"
+    3300034: "\u72592"
+    3300036: "\u72593"
+    3300038: "\u773C"
+    3300040: "\u773C_1"
+    3300042: "\u8033\u6735"
+    3300044: "\u8033\u6735_1"
+    3300046: "\u811A"
+    3300048: "\u820C\u5934"
+    3300050: "\u9065\u63A7\u5668"
+    3300052: "\u94C5\u7B14"
+    3300054: "\u989C\u6599"
+    3300056: "\u9F20\u6807"
+    3300058: "\u9F3B"
+    4300000: iphone_1
+    4300002: gegebo
+    4300004: gebo
+    4300006: 2
+    4300008: dianshi
+    4300010: "\u9065\u63A7\u5668"
+    4300012: "\u773C"
+    4300014: "\u624B"
+    4300016: "\u624B_2"
+    4300018: "\u624B_3"
+    4300020: "\u624B_4"
+    4300022: "\u72591"
+    4300024: "\u72592"
+    4300026: "\u72593"
+    4300028: "\u53E3\u8154"
+    4300030: "\u820C\u5934"
+    4300032: "\u53E3\u81541"
+    4300034: "\u9F3B"
+    4300036: "\u8033\u6735"
+    4300038: "\u811A"
+    4300040: j
+    4300042: sss
+    4300044: jio
+    4300046: "\u9F20\u6807"
+    4300048: "\u989C\u6599"
+    4300050: "\u6C34\u5F69\u7B14"
+    4300052: "\u94C5\u7B14"
+    4300054: "\u5237\u5B50"
+    4300056: "\u8033\u6735_1"
+    4300058: "\u773C_1"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u773C___1"
+    second: {fileID: 2100000, guid: 82624b6cd6393ce48b8eff85784e7311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u827A\u672F\u5BB6"
+    second: {fileID: 2100000, guid: bffaa923a6ffa294690f245ca8fc0de8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u666E\u901Acolor"
+    second: {fileID: 2800000, guid: 94b7bb140314b584e9280d2bb634c4b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u666E\u901Aheight"
+    second: {fileID: 2800000, guid: 231dc9c480200064883b34ad6f2eb5e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u666E\u901Anormal"
+    second: {fileID: 2800000, guid: d800dede95ae09c48b0d1fba25505250, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

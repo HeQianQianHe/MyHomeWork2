@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: fb4cfb07c9dfe144f92112b736830d54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: gebo
+    100002: gegebo
+    100004: iphone
+    100006: jio
+    100008: s
+    100010: shuoji
+    100012: ss
+    100014: "w\u6309\u952E"
+    100016: "\u53E3\u8154"
+    100018: "\u53E3\u81541_1"
+    100020: "\u56DE\u8F66"
+    100022: "\u624B"
+    100024: "\u624B_1"
+    100026: "\u624B_2"
+    100028: "\u624B_3"
+    100030: "\u72591"
+    100032: "\u72592"
+    100034: "\u72593"
+    100036: "\u7535\u89C6"
+    100038: "\u773C"
+    100040: "\u773C_1"
+    100042: "\u773C\u955C"
+    100044: //RootNode
+    100046: "\u8033\u6735"
+    100048: "\u8033\u6735_1"
+    100050: "\u8111\u5B50"
+    100052: "\u811A"
+    100054: "\u820C\u5934"
+    100056: "\u9065\u63A7\u5668"
+    100058: "\u9F20\u6807"
+    100060: "\u9F3B"
+    400000: gebo
+    400002: gegebo
+    400004: iphone
+    400006: jio
+    400008: s
+    400010: shuoji
+    400012: ss
+    400014: "w\u6309\u952E"
+    400016: "\u53E3\u8154"
+    400018: "\u53E3\u81541_1"
+    400020: "\u56DE\u8F66"
+    400022: "\u624B"
+    400024: "\u624B_1"
+    400026: "\u624B_2"
+    400028: "\u624B_3"
+    400030: "\u72591"
+    400032: "\u72592"
+    400034: "\u72593"
+    400036: "\u7535\u89C6"
+    400038: "\u773C"
+    400040: "\u773C_1"
+    400042: "\u773C\u955C"
+    400044: //RootNode
+    400046: "\u8033\u6735"
+    400048: "\u8033\u6735_1"
+    400050: "\u8111\u5B50"
+    400052: "\u811A"
+    400054: "\u820C\u5934"
+    400056: "\u9065\u63A7\u5668"
+    400058: "\u9F20\u6807"
+    400060: "\u9F3B"
+    2100000: "\u7A0B\u5E8F\u5458"
+    2100002: "\u7A0B\u5E8F\u5458jingzi"
+    2100004: "\u773C___1"
+    2100006: "\u7A0B\u5E8F\u5458boli"
+    2300000: gebo
+    2300002: gegebo
+    2300004: iphone
+    2300006: jio
+    2300008: s
+    2300010: shuoji
+    2300012: ss
+    2300014: "w\u6309\u952E"
+    2300016: "\u53E3\u8154"
+    2300018: "\u53E3\u81541_1"
+    2300020: "\u56DE\u8F66"
+    2300022: "\u624B"
+    2300024: "\u624B_1"
+    2300026: "\u624B_2"
+    2300028: "\u624B_3"
+    2300030: "\u72591"
+    2300032: "\u72592"
+    2300034: "\u72593"
+    2300036: "\u7535\u89C6"
+    2300038: "\u773C"
+    2300040: "\u773C_1"
+    2300042: "\u773C\u955C"
+    2300044: "\u8033\u6735"
+    2300046: "\u8033\u6735_1"
+    2300048: "\u8111\u5B50"
+    2300050: "\u811A"
+    2300052: "\u820C\u5934"
+    2300054: "\u9065\u63A7\u5668"
+    2300056: "\u9F20\u6807"
+    2300058: "\u9F3B"
+    3300000: gebo
+    3300002: gegebo
+    3300004: iphone
+    3300006: jio
+    3300008: s
+    3300010: shuoji
+    3300012: ss
+    3300014: "w\u6309\u952E"
+    3300016: "\u53E3\u8154"
+    3300018: "\u53E3\u81541_1"
+    3300020: "\u56DE\u8F66"
+    3300022: "\u624B"
+    3300024: "\u624B_1"
+    3300026: "\u624B_2"
+    3300028: "\u624B_3"
+    3300030: "\u72591"
+    3300032: "\u72592"
+    3300034: "\u72593"
+    3300036: "\u7535\u89C6"
+    3300038: "\u773C"
+    3300040: "\u773C_1"
+    3300042: "\u773C\u955C"
+    3300044: "\u8033\u6735"
+    3300046: "\u8033\u6735_1"
+    3300048: "\u8111\u5B50"
+    3300050: "\u811A"
+    3300052: "\u820C\u5934"
+    3300054: "\u9065\u63A7\u5668"
+    3300056: "\u9F20\u6807"
+    3300058: "\u9F3B"
+    4300000: gegebo
+    4300002: gebo
+    4300004: iphone
+    4300006: "\u53E3\u81541_1"
+    4300008: "\u7535\u89C6"
+    4300010: "\u72592"
+    4300012: s
+    4300014: ss
+    4300016: jio
+    4300018: "\u9065\u63A7\u5668"
+    4300020: "\u773C"
+    4300022: "\u624B"
+    4300024: "\u624B_1"
+    4300026: "\u624B_2"
+    4300028: "\u624B_3"
+    4300030: "\u72591"
+    4300032: "\u72593"
+    4300034: "\u53E3\u8154"
+    4300036: "\u820C\u5934"
+    4300038: "\u9F3B"
+    4300040: "\u8033\u6735"
+    4300042: "\u811A"
+    4300044: shuoji
+    4300046: "\u9F20\u6807"
+    4300048: "\u8033\u6735_1"
+    4300050: "\u56DE\u8F66"
+    4300052: "w\u6309\u952E"
+    4300054: "\u8111\u5B50"
+    4300056: "\u773C\u955C"
+    4300058: "\u773C_1"
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u773C___1"
+    second: {fileID: 2100000, guid: da54b5a708ca9394189f734a15af2466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7A0B\u5E8F\u5458"
+    second: {fileID: 2100000, guid: 2fe807e078b0fcc459a2fe1e3a3e21a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7A0B\u5E8F\u5458boli"
+    second: {fileID: 2100000, guid: 5f0baca3ef592be40808a784f97d2737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7A0B\u5E8F\u5458jingzi"
+    second: {fileID: 2100000, guid: 461f165095bb20141b2b26f25c46e99f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u666E\u901Acolor"
+    second: {fileID: 2800000, guid: 30ac312fb68a5a84faf776432fad6ad6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u666E\u901Aheight"
+    second: {fileID: 2800000, guid: 2bf2b43e844040e4ea553e070f7176d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u666E\u901Anormal"
+    second: {fileID: 2800000, guid: a8e0978d1a988a24ca2c948c429e653b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

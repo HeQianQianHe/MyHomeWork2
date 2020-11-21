@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LaJi_WeiXin
+  - LaJi_WeiXinDelete
+  - LaJi_DunaXinYouXiang
+  - LaJi_Delete2
+  - LaJi_XiaoXi
+  - LaJi_Delete3
+  - LaJi_ZhiJieGuan
+  - Phone
+  - CloseTvButton
+  - DataThing
+  - IndexBone1
+  - TVBoss
+  - control
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TV
+  - Ground
+  - NoShadow
+  - PostProcess
+  - Deformer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
