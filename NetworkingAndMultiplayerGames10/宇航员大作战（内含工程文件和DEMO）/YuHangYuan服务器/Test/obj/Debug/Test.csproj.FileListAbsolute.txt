@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\YuHangYuan服务器\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\YuHangYuan服务器\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\YuHangYuan服务器\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

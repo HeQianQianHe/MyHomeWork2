@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\服务器\bin\Debug\服务器.exe.config
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\服务器\bin\Debug\服务器.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\服务器\bin\Debug\服务器.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\服务器\obj\Debug\服务器.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\服务器\obj\Debug\服务器.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\服务器\obj\Debug\服务器.csprojResolveAssemblyReference.cache

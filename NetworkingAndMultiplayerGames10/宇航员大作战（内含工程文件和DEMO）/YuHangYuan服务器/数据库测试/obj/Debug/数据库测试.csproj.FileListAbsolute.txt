@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\数据库测试\bin\Debug\数据库测试.exe.config
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\数据库测试\obj\Debug\数据库测试.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\数据库测试\bin\Debug\数据库测试.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\数据库测试\bin\Debug\数据库测试.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\数据库测试\obj\Debug\数据库测试.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\数据库测试\obj\Debug\数据库测试.pdb

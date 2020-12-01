@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\客户端\bin\Debug\客户端.exe.config
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\客户端\bin\Debug\客户端.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\客户端\bin\Debug\客户端.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\客户端\obj\Debug\客户端.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\客户端\obj\Debug\客户端.pdb
