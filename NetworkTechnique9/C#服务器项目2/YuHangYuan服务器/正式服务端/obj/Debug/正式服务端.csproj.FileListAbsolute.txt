@@ -1,0 +1,54 @@
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\bin\Debug\正式服务端.exe.config
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\obj\Debug\正式服务端.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\bin\Debug\正式服务端.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\bin\Debug\正式服务端.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\obj\Debug\正式服务端.exe
+C:\Users\Administrator\Desktop\《丛林战争》服务器和客户端\正式服务端\obj\Debug\正式服务端.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe.config
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.exe
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csprojResolveAssemblyReference.cache
+J:\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe.config
+J:\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.exe
+J:\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.pdb
+J:\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe
+J:\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.pdb
+J:\YuHangYuan服务器\正式服务端\bin\Debug\Common.dll
+J:\YuHangYuan服务器\正式服务端\bin\Debug\Common.pdb
+J:\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csprojResolveAssemblyReference.cache
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe.config
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.exe
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.pdb
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.pdb
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\bin\Debug\Common.dll
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\bin\Debug\Common.pdb
+J:\YuHangYuan大作业\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csprojResolveAssemblyReference.cache
+F:\资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csprojAssemblyReference.cache
+F:\资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csproj.CoreCompileInputs.cache
+F:\资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.exe
+F:\资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.pdb
+F:\资料\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe.config
+F:\资料\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe
+F:\资料\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.pdb
+F:\资料\YuHangYuan服务器\正式服务端\bin\Debug\Common.dll
+F:\资料\YuHangYuan服务器\正式服务端\bin\Debug\mysql.data.dll
+F:\资料\YuHangYuan服务器\正式服务端\bin\Debug\Common.pdb
+F:\资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csproj.CopyComplete
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe.config
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.exe
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\bin\Debug\正式服务端.pdb
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\bin\Debug\Common.dll
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\bin\Debug\mysql.data.dll
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\bin\Debug\Common.pdb
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csprojAssemblyReference.cache
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csproj.CoreCompileInputs.cache
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.csproj.CopyComplete
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.exe
+F:\U3d Accumulate\YuHangYuan资料\YuHangYuan服务器\正式服务端\obj\Debug\正式服务端.pdb

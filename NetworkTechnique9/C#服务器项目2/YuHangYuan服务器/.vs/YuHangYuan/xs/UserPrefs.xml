@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{040AD38B-44C7-47AB-9EE9-AE7DC5343447}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="正式服务端/Servers/Client.cs">
+    <Files>
+      <File FileName="正式服务端/Servers/Server.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Model/Result.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Model/User.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/DAO/UserDAO.cs" Line="83" Column="1" />
+      <File FileName="正式服务端/Controller/BaseController.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Controller/ControllerManager.cs" Line="62" Column="1" />
+      <File FileName="正式服务端/Controller/GameController.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Controller/UserController.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Servers/Room.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Controller/RoomController.cs" Line="66" Column="1" />
+      <File FileName="正式服务端/Servers/Message.cs" Line="44" Column="45" />
+      <File FileName="正式服务端/Tool/ConnHelper.cs" Line="1" Column="1" />
+      <File FileName="正式服务端/Servers/Client.cs" Line="24" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apple/Desktop/作品集pdf项目/YuHangYuan大作业/资料/YuHangYuan服务器/正式服务端/Tool/ConnHelper.cs" relfile="正式服务端/Tool/ConnHelper.cs" line="14" column="1" />
+      <Breakpoint file="/Users/apple/Desktop/作品集pdf项目/YuHangYuan大作业/资料/YuHangYuan服务器/正式服务端/Tool/ConnHelper.cs" relfile="正式服务端/Tool/ConnHelper.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.服务器 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
